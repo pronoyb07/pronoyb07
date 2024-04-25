@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/0xpronoyb07" target="blank"><img src="https://img.shields.io/twitter/follow/0xpronoyb07?logo=twitter&style=for-the-badge" alt="0xpronoyb07" /></a> </p> -->
 
-- 🌱 I’m currently labeling between **Typescript & Tailwind**
+- 🌱 I’m currently dabeling between **Typescript & Tailwind**
 
 - 📝 I regularly write articles on [https://medium.com/@pronoyb07](https://medium.com/@pronoyb07)
 
